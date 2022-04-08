@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\codeacademy\8AprelTask\8AprelTask\bin\Debug\netcoreapp3.1\8AprelTask.exe
+C:\Users\User\Desktop\codeacademy\8AprelTask\8AprelTask\bin\Debug\netcoreapp3.1\8AprelTask.deps.json
+C:\Users\User\Desktop\codeacademy\8AprelTask\8AprelTask\bin\Debug\netcoreapp3.1\8AprelTask.runtimeconfig.json
+C:\Users\User\Desktop\codeacademy\8AprelTask\8AprelTask\bin\Debug\netcoreapp3.1\8AprelTask.runtimeconfig.dev.json
+C:\Users\User\Desktop\codeacademy\8AprelTask\8AprelTask\bin\Debug\netcoreapp3.1\8AprelTask.dll
+C:\Users\User\Desktop\codeacademy\8AprelTask\8AprelTask\bin\Debug\netcoreapp3.1\8AprelTask.pdb
+C:\Users\User\Desktop\codeacademy\8AprelTask\8AprelTask\obj\Debug\netcoreapp3.1\8AprelTask.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\codeacademy\8AprelTask\8AprelTask\obj\Debug\netcoreapp3.1\8AprelTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\codeacademy\8AprelTask\8AprelTask\obj\Debug\netcoreapp3.1\8AprelTask.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\codeacademy\8AprelTask\8AprelTask\obj\Debug\netcoreapp3.1\8AprelTask.AssemblyInfo.cs
+C:\Users\User\Desktop\codeacademy\8AprelTask\8AprelTask\obj\Debug\netcoreapp3.1\8AprelTask.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\codeacademy\8AprelTask\8AprelTask\obj\Debug\netcoreapp3.1\8AprelTask.dll
+C:\Users\User\Desktop\codeacademy\8AprelTask\8AprelTask\obj\Debug\netcoreapp3.1\8AprelTask.pdb
+C:\Users\User\Desktop\codeacademy\8AprelTask\8AprelTask\obj\Debug\netcoreapp3.1\8AprelTask.genruntimeconfig.cache
